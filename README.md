@@ -19,6 +19,9 @@ The Altera Nios II has the following features:
  - Custom hardware instructions
  - Debugging using JTAG
 
+As FPGA board, we chosse the DE0-CV fpga board. Follow below the specifications :
+![Description](images/fpga.png)
+
 
 # System structure
 ![Description](images/nios2.png)
