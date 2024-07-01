@@ -24,4 +24,8 @@ As FPGA board, we chosse the DE0-CV fpga board. Follow below the specifications 
 
 
 # System structure
+
+Below follow the structure of our CPU builded on quartus lite program.
 ![Description](images/nios2.png)
+
+# How run the project
