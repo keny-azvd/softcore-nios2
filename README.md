@@ -30,7 +30,7 @@ Below follow the structure of our CPU builded on quartus lite program.
 
 # How run the project
 
-1. Add the DE0_CV_Qsys.qsys on quartus project, make the build inside program.
+1. Add the DE0_CV_Qsys.qsys on quartus project and make the build inside program.
 2. Scan the USB blaster with FPGA and select the CPU, as described on tutorial : https://www.youtube.com/watch?v=XprMl1q_Srk
 3. Open Eclipse to Nios 2 and select the software folder as workspace.
 4. Build the Project on eclipse.
